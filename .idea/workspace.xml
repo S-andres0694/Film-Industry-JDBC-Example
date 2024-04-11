@@ -1,11 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="SCOPE_TYPE" value="3" />
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="40772419-9a97-447f-8ed1-386ae01b19f9" name="Changes" comment="" />
+    <list default="true" id="40772419-9a97-447f-8ed1-386ae01b19f9" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CS1003 Assignment 2.iml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindBugs-IDEA-Workspace">
+    <toolWindowEditorPreview>false</toolWindowEditorPreview>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -13,28 +38,183 @@
   <component name="GitToolBoxStore">
     <option name="projectConfigVersion" value="5" />
   </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="2" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 1
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
   <component name="ProjectId" id="2dSLptbN7MDQcheGnNzoMbXdupL" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.DDLTester.executor&quot;: &quot;Run&quot;,
+    &quot;Application.InitialiseDB.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PopulateDB.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Queries.executor&quot;: &quot;Run&quot;,
+    &quot;Application.QueryDB.executor&quot;: &quot;Run&quot;,
+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
+    &quot;JUnit.All in CS1003 Assignment 2.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.DatabaseTests.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.DatabaseTests.test1.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.DatabaseTests.test12.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.DatabaseTests.test14.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.DatabaseTests.test16.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.DatabaseTests.test18.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.DatabaseTests.test19.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.DatabaseTests.test20.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.DatabaseTests.test21.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.DatabaseTests.test23.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.DatabaseTests.test25.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.DatabaseTests.test26.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.DatabaseTests.test27.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.DatabaseTests.test28.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.DatabaseTests.test29.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.DatabaseTests.test30.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.DatabaseTests.test31.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.DatabaseTests.test7.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.DatabaseTests.test8.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.ProgramTesting.executor&quot;: &quot;Run with Parallel Runner&quot;,
+    &quot;JUnit.Tests.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.Tests.test1.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.Tests.test2.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.Tests.test5.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.Tests.test6.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.Tests.test7.executor&quot;: &quot;Run&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;database.data.extractors.current.export.id&quot;: &quot;CSV-Groovy.csv.groovy&quot;,
+    &quot;database.data.extractors.current.id&quot;: &quot;CSV-Groovy.csv.groovy&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/sebas/Library/CloudStorage/OneDrive-UniversityofStAndrews/CS1003/Assignments/Assignment2/CS1003 Assignment 2&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;sqlite&quot;
+    ],
+    &quot;GitStage.ChangesTree.GroupingKeys&quot;: [
+      &quot;directory&quot;,
+      &quot;module&quot;,
+      &quot;repository&quot;
+    ],
+    &quot;com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File&quot;: [
+      &quot;PLAIN_TEXT&quot;
+    ]
   }
-}]]></component>
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.DatabaseTests">
+    <configuration name="InitialiseDB" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="InitialiseDB" />
+      <module name="CS1003 Assignment 2" />
+      <option name="PROGRAM_PARAMETERS" value="2 &quot;The Matrix (1999)&quot;" />
+      <extension name="net.ashald.envfile">
+        <option name="IS_ENABLED" value="false" />
+        <option name="IS_SUBST" value="false" />
+        <option name="IS_PATH_MACRO_SUPPORTED" value="false" />
+        <option name="IS_IGNORE_MISSING_FILES" value="false" />
+        <option name="IS_ENABLE_EXPERIMENTAL_INTEGRATIONS" value="false" />
+        <ENTRIES>
+          <ENTRY IS_ENABLED="true" PARSER="runconfig" IS_EXECUTABLE="false" />
+        </ENTRIES>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="CS1003 Assignment 2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PopulateDB" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PopulateDB" />
+      <module name="CS1003 Assignment 2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="QueryDB" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="QueryDB" />
+      <module name="CS1003 Assignment 2" />
+      <option name="PROGRAM_PARAMETERS" value="2 &quot;The Matrix (1999)&quot;" />
+      <extension name="net.ashald.envfile">
+        <option name="IS_ENABLED" value="false" />
+        <option name="IS_SUBST" value="false" />
+        <option name="IS_PATH_MACRO_SUPPORTED" value="false" />
+        <option name="IS_IGNORE_MISSING_FILES" value="false" />
+        <option name="IS_ENABLE_EXPERIMENTAL_INTEGRATIONS" value="false" />
+        <ENTRIES>
+          <ENTRY IS_ENABLED="true" PARSER="runconfig" IS_EXECUTABLE="false" />
+        </ENTRIES>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DatabaseTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="CS1003 Assignment 2" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="DatabaseTests" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.DatabaseTests" />
+        <item itemvalue="Application.QueryDB" />
+        <item itemvalue="Application.PopulateDB" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.InitialiseDB" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SQLScriptSettings">
+    <option name="outputLayout" value="File per object by schema and database.groovy" />
+    <option name="outputPath" value="$USER_HOME$/Desktop" />
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9f38398b9061-18abd8497189-intellij.indexing.shared.core-IU-241.14494.240" />
+        <option value="bundled-js-predefined-1d06a55b98c1-74d2a5396914-JavaScript-IU-241.14494.240" />
+      </set>
+    </attachedChunks>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -43,11 +223,76 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1709996718855</updated>
-      <workItem from="1709996720344" duration="3000" />
+      <workItem from="1709996720344" duration="6410000" />
+      <workItem from="1710004683916" duration="2564000" />
+      <workItem from="1710008740945" duration="9304000" />
+      <workItem from="1710090059973" duration="11383000" />
+      <workItem from="1710253613139" duration="66000" />
+      <workItem from="1710253690378" duration="2786000" />
+      <workItem from="1710259705541" duration="7055000" />
+      <workItem from="1710266881839" duration="4126000" />
+      <workItem from="1710272295599" duration="758000" />
+      <workItem from="1710333776149" duration="668000" />
+      <workItem from="1710336944067" duration="3773000" />
+      <workItem from="1710371833895" duration="4713000" />
+      <workItem from="1710448595070" duration="26737000" />
+      <workItem from="1710590310085" duration="59735000" />
+      <workItem from="1710694005884" duration="5212000" />
+      <workItem from="1710713262202" duration="2650000" />
+      <workItem from="1710766257648" duration="2001000" />
+      <workItem from="1710781839140" duration="8049000" />
+      <workItem from="1710792468569" duration="11968000" />
+      <workItem from="1710816548443" duration="103000" />
+      <workItem from="1710816945124" duration="2625000" />
+      <workItem from="1710819740594" duration="214000" />
+      <workItem from="1710819968722" duration="1034000" />
+      <workItem from="1710844822080" duration="60000" />
+      <workItem from="1710862739039" duration="42000" />
+      <workItem from="1710864009809" duration="3507000" />
+      <workItem from="1710871869136" duration="12952000" />
+      <workItem from="1710885157570" duration="27087000" />
+      <workItem from="1710956911409" duration="28148000" />
+      <workItem from="1711020852243" duration="24000" />
+      <workItem from="1711021925288" duration="5648000" />
+      <workItem from="1711031161009" duration="1736000" />
+      <workItem from="1711036189844" duration="160000" />
+      <workItem from="1711036361346" duration="16071000" />
+      <workItem from="1711054416851" duration="683000" />
+      <workItem from="1711055160844" duration="6000" />
+      <workItem from="1711055184455" duration="23000" />
+      <workItem from="1711056045226" duration="84000" />
+      <workItem from="1711056154706" duration="99000" />
+      <workItem from="1711056393277" duration="44000" />
+      <workItem from="1711056520637" duration="82000" />
+      <workItem from="1711056647543" duration="303000" />
+      <workItem from="1712237682153" duration="140000" />
+      <workItem from="1712482893910" duration="30000" />
+      <workItem from="1712573495664" duration="68000" />
+      <workItem from="1712573631334" duration="389000" />
+      <workItem from="1712574031987" duration="1200000" />
+      <workItem from="1712579361231" duration="11000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.NullPointerException" package="java.lang" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.IndexOutOfBoundsException" package="java.lang" />
+          <option name="timeStamp" value="3" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
