@@ -1,0 +1,34 @@
+{
+  "Genres": {
+    "genre1":{
+      "Genre": "Action"
+    },
+    "genre2":{
+      "Genre": "Romance"
+    },
+    "genre3":{
+      "Genre": "Horror"
+    },
+    "genre4":{
+      "Genre": "Sci-Fi"
+    },
+    "genre5":{
+      "Genre": "Superhero"
+    },
+    "genre6":{
+      "Genre": "Comedy"
+    },
+    "genre7": {
+      "Genre": "Crime"
+    },
+    "genre8": {
+      "Genre": "War"
+    },
+    "genre9": {
+      "Genre": "Drama"
+    },
+    "genre10": {
+      "Genre": "Biographical"
+    }
+  }
+}

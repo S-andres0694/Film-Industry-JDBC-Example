@@ -1,0 +1,85 @@
+{
+  "Movies": {
+    "Movie1": {
+      "Title": "The Matrix (1999)",
+      "Release Date": "11-06-1999",
+      "Running Time": "02:16:00",
+      "Genre": "1-4",
+      "Plot Summary": "Neo, a computer programmer and hacker, has always questioned the reality of the world around him. His suspicions are confirmed when Morpheus, a rebel leader, contacts him and reveals the truth to him.",
+      "Director": 1,
+      "Ratings": "1;2;3",
+      "Awards": 0
+
+    },
+    "Movie2": {
+      "Title": "Star Wars: Episode III Revenge of the Sith",
+      "Release Date": "19-05-2005",
+      "Running Time": "02:20:00",
+      "Genre": "1-4",
+      "Plot Summary": "Anakin joins forces with Obi-Wan and sets Palpatine free from the evil clutches of Count Dooku. However, he falls prey to Palpatine and the Jedis' mind games and gives into temptation.",
+      "Director": 3,
+      "Ratings": "4;5;6",
+      "Awards": 0
+    },
+    "Movie3": {
+      "Title": "The Dark Knight",
+      "Release Date": "21-06-2008",
+      "Running Time": "02:32:00",
+      "Genre": "1-7-5",
+      "Plot Summary": "Batman has a new foe, the Joker, who is an accomplished criminal hell-bent on decimating Gotham City. Together with Gordon and Harvey Dent, Batman struggles to thwart the Joker before it is too late.",
+      "Director": 2,
+      "Ratings": "7;8;9",
+      "Awards": 0
+    },
+    "Movie4": {
+      "Title": "Glory",
+      "Release Date": "2-03-1990",
+      "Running Time": "02:02:00",
+      "Genre": "8",
+      "Plot Summary": "During the American Civil War, Robert Gould Shaw is promoted to colonel of one of the Union Army's first all-black regiments. As he leads the group, he encounters prejudice on both sides of the war.",
+      "Director": 4,
+      "Ratings": "10;11;12",
+      "Awards": 0
+    },
+    "Movie5": {
+      "Title": "Justice League (2017)",
+      "Release Date": "17-11-2017",
+      "Running Time": "02:12:00",
+      "Genre": "1-5",
+      "Plot Summary": "Steppenwolf and his Parademons return after eons to capture Earth. However, Batman seeks the help of Wonder Woman to recruit and assemble Flash, Cyborg and Aquaman to fight the powerful new enemy.",
+      "Director": 5,
+      "Ratings": "13;14;15",
+      "Awards": 0
+    },
+    "Movie6": {
+      "Title": "Oppenheimer",
+      "Release Date": "21-07-2023",
+      "Running Time": "03:12:00",
+      "Genre": "8-10",
+      "Plot Summary": "During World War II, Lt. Gen. Leslie Groves Jr. appoints physicist J. Robert Oppenheimer to work on the top-secret Manhattan Project. Oppenheimer and a team of scientists spend years developing and designing the atomic bomb. ",
+      "Director": 2,
+      "Ratings": "16;17;18",
+      "Awards": "2"
+    },
+    "Movie7": {
+      "Title": "Raging Bull",
+      "Release Date": "1980-14-11",
+      "Running Time": "02:09:00",
+      "Genre": "10-9",
+      "Plot Summary": "Follows the career of LaMotta, played by De Niro, his rise and fall in the boxing scene, and his turbulent personal life beset by rage and jealousy.",
+      "Director": 6,
+      "Ratings": "19;20;21",
+      "Awards": "11,12,7"
+    },
+    "Movie8": {
+      "Title": "Going My Way",
+      "Release Date": "1944-10-02",
+      "Running Time": "02:06:00",
+      "Genre": "6-9",
+      "Plot Summary": "The 1944 musical comedy revolves around a priest who joins a Manhattan parish only to be met by skepticism from another father. ",
+      "Director": 7,
+      "Ratings": "22;23",
+      "Awards": "2,15"
+    }
+  }
+}

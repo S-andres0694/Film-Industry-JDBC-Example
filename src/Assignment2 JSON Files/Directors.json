@@ -1,0 +1,39 @@
+{
+  "Directors": {
+    "director1": {
+      "Full Name": "The Wachowski Sisters",
+      "Movie Count": 8,
+      "Awards": "0"
+    },
+    "director2": {
+      "Full Name": "Christopher Nolan",
+      "Movie Count": 13,
+      "Awards": "3,9,4,14"
+    },
+    "director3": {
+      "Full Name": "George Lucas",
+      "Movie Count": 49,
+      "Awards": "0"
+    },
+    "director4": {
+      "Full Name": "Edward Zwick",
+      "Movie Count": 15,
+      "Awards": "0"
+    },
+    "director5": {
+      "Full Name": "Zack Snyder",
+      "Movie Count": 26,
+      "Awards": "0"
+    },
+    "director6": {
+      "Full Name": "Martin Scorsese",
+      "Movie Count": 21,
+      "Awards": "3,4,9,13"
+    },
+    "director7": {
+      "Full Name": "Leo McCarey",
+      "Movie Count": 16,
+      "Awards": "3"
+    }
+  }
+}

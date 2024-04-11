@@ -1,0 +1,76 @@
+{
+  "Awards": {
+    "award1": {
+      "Award Institution": "Oscars",
+      "Motive": "Best Actor"
+    },
+    "award2": {
+      "Award Institution": "Oscars",
+      "Motive": "Best Picture"
+    },
+    "award3": {
+      "Award Institution": "Oscars",
+      "Motive": "Best Director"
+    },
+    "award4": {
+      "Award Institution": "BAFTA",
+      "Motive": "Best Film"
+    },
+    "award5": {
+      "Award Institution": "Emmys",
+      "Motive": "Best Direction"
+    },
+    "award6": {
+      "Award Institution": "Emmys",
+      "Motive": "Best Actor in Leading Role"
+    },
+
+    "award7" : {
+      "Award Institution": "Oscars",
+      "Motive": "Best Supporting Actor"
+    },
+
+    "award8": {
+      "Award Institution": "BAFTA",
+      "Motive": "Best Actor in Supporting Role"
+
+  },
+
+    "award9" : {
+      "Award Institution": "BAFTA",
+      "Motive": "Best Direction"
+    },
+    "award10" : {
+      "Award Institution": "Golden Globe Awards",
+      "Motive": "Best Actor in a Motion Picture (Drama)"
+    },
+    "award11" : {
+      "Award Institution": "Oscars",
+      "Motive": "Best Film Editing"
+    },
+    "award12" : {
+      "Award Institution": "BAFTA",
+      "Motive": "Best Editing"
+    },
+    "award13" : {
+      "Award Institution": "Golden Globe Awards",
+      "Motive": "Best Director of Motion Picture"
+    },
+    "award14" : {
+      "Award Institution": "Golden Globe Awards",
+      "Motive": "Best Director"
+    },
+    "award15": {
+      "Award Institution": "Golden Globe Awards",
+      "Motive": "Best Picture"
+    },
+    "award16": {
+      "Award Institution": "BAFTA",
+      "Motive": "Best Leading Actor"
+    },
+    "award17": {
+      "Award Institution": "Oscars",
+      "Motive": "Best Writing, Original Story"
+    }
+}
+}

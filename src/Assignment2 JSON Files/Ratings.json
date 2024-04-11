@@ -1,0 +1,96 @@
+{
+  "Ratings": {
+    "rating1": {
+      "Critic Source": "Rotten Tomatoes",
+      "Rating": 4.7
+    },
+    "rating2": {
+      "Critic Source": "IMDb",
+      "Rating": 4.5
+    },
+    "rating3": {
+      "Critic Source": "Metacritic",
+      "Rating": 4.2
+    },
+    "rating4": {
+      "Critic Source": "Rotten Tomatoes",
+      "Rating": 4.15
+    },
+    "rating5": {
+      "Critic Source": "IMDb",
+      "Rating": 4.35
+    },
+    "rating6": {
+      "Critic Source": "Metacritic",
+      "Rating": 3.65
+    },
+    "rating7": {
+      "Critic Source": "Rotten Tomatoes",
+      "Rating": 3.95
+    },
+    "rating8": {
+      "Critic Source": "IMDb",
+      "Rating": 3.8
+    },
+    "rating9": {
+      "Critic Source": "Metacritic",
+      "Rating": 3.4
+    },
+    "rating10": {
+      "Critic Source": "Rotten Tomatoes",
+      "Rating": 4.75
+    },
+    "rating11": {
+      "Critic Source": "IMDb",
+      "Rating": 3.9
+    },
+    "rating12": {
+      "Critic Source": "Metacritic",
+      "Rating": 3.9
+    },
+    "rating13": {
+      "Critic Source": "Rotten Tomatoes",
+      "Rating": 3.6
+    },
+    "rating14": {
+      "Critic Source": "IMDb",
+      "Rating": 3
+    },
+    "rating15": {
+      "Critic Source": "Metacritic",
+      "Rating": 2.7
+    },
+    "rating16": {
+      "Critic Source": "Rotten Tomatoes",
+      "Rating": 4.7
+    },
+    "rating17": {
+      "Critic Source": "Metacritic",
+      "Rating": 4.5
+    },
+    "rating18": {
+      "Critic Source": "IMDb",
+      "Rating": 4.2
+    },
+    "rating19": {
+      "Critic Source": "IMDb",
+      "Rating": 4.1
+    },
+    "rating20": {
+      "Critic Source": "Rotten Tomatoes",
+      "Rating": 4.6
+    },
+    "rating21": {
+      "Critic Source": "Metacritic",
+      "Rating": 4.5
+    },
+    "rating22": {
+      "Critic Source": "Rotten Tomatoes",
+      "Rating": 4.2
+    },
+    "rating23": {
+      "Critic Source": "IMDb",
+      "Rating": 3.5
+    }
+  }
+}
